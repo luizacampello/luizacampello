@@ -7,6 +7,7 @@
 <a href="https://github.com/luizacampello/github-readme-stats">
   <img height="150em" img align="center" src="https://github-readme-stats.vercel.app/api?username=luizacampello&hide_title=true&hide=issues&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_title=true" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="150em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacampello&layout=compact&include_all_commits=true&langs_count=7&theme=nord"" />
 </a>
