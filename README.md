@@ -1,4 +1,4 @@
-### Hi there 👋
+### Luiza Campello 👋
 
 - :computer: Trainee Full Stack no Banco Safra
 - :earth_americas: Formada em Geologia - Universidade de Brasília
