@@ -1,4 +1,4 @@
-- :computer: Trainee Full Stack no Banco Safra
+- :computer: Trainee Web Full Stack
 - :earth_americas: Formada em Geologia - Universidade de Brasília
 
 <div align="center">
