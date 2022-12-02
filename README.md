@@ -1,4 +1,4 @@
-- :computer: Trainee Web Full Stack
+- :computer: Trainee Web Full Stack - Safra
 - :earth_americas: Formada em Geologia - Universidade de Brasília
 
 <div align="center">
